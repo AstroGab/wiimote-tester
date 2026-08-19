@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>WiiMote Tester</name>
+	<coder>AstroGab</coder>
+	<version>1.0</version>
+	<release_date>20260218000000</release_date>
+	<short_description>Test Wiimote</short_description>
+	<long_description>A test program for the Wiimote buttons and screen colors.</long_description>
+</app>
