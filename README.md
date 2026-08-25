@@ -6,3 +6,4 @@ You can even test your Nunchuk, like the buttons or the thumbstick.
 You have to put the "WiiMote Tester" folder in your "apps" folder in the sd card.
 
 There's even the wad file of this app, it's included in the compressed zip folder, you can install it in your Wii with a wad installer tool like Wii Mode Lite or YAWM.
+https://github.com/user-attachments/assets/11b17842-e969-4978-b115-5ab1f2c13a46
