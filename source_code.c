@@ -256,12 +256,12 @@ int main(int argc, char** argv) {
 
                 printf("\x1b[2;26H\x1b[34m   --- NUNCHUCK TEST --- \x1b[0m");
 
-                // Tasti Z e C
+				// Z and C buttons status
                 printf("\x1b[6;25H\x1b[K[Z]: %-3s | [C]: %-3s",
                     (held & WPAD_NUNCHUK_BUTTON_Z) ? "\x1b[32mON\x1b[0m" : "\x1b[30mOFF\x1b[0m",
                     (held & WPAD_NUNCHUK_BUTTON_C) ? "\x1b[32mON\x1b[0m" : "\x1b[30mOFF\x1b[0m");
 
-                // Stick Analogico centrato (parte da 0 a riposo) ed evita sovrapposizioni
+				// Nunchuk thumbstick position
                 if (exp.type == WPAD_EXP_NUNCHUK) {
                     int stick_x = exp.nunchuk.js.pos.x - exp.nunchuk.js.center.x;
                     int stick_y = exp.nunchuk.js.pos.y - exp.nunchuk.js.center.y;
