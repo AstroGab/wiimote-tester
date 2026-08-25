@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/67bac04b-0a5e-4abc-8569-141da6e5f934
+
 **Click [Releases](../../releases) to download the files!**
 
 "Wiimote Tester" is a program that allows you to test some features of your Wii Remote like the buttons, rumble, battery, the raw real-time display of the accelerometer data (X, Y and Z), etc...
@@ -6,5 +10,3 @@ You can even test your Nunchuk, like the buttons or the thumbstick.
 You have to put the "WiiMote Tester" folder in your "apps" folder in the sd card.
 
 There's even the wad file of this app, it's included in the compressed zip folder, you can install it in your Wii with a wad installer tool like Wii Mode Lite or YAWM.
-
-Click here to see the wad file: https://github.com/user-attachments/assets/11b17842-e969-4978-b115-5ab1f2c13a46
